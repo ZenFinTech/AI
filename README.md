@@ -3,7 +3,8 @@
 ------ bigdata + 算力(CPU/GPU)  模糊界限 -------     
 功能: 心智模拟   
 [李永乐，AI简史，数学基础](https://www.ixigua.com/6937289753200951844?logTag=ZNexPj_PCvOYAkE7mv63_)     
-[李永乐，AI视觉，神经网络，卷积](https://www.ixigua.com/6937948172207522307?logTag=QofuTPgtxxMyZD9-c67Nn)
+[李永乐，AI视觉，神经网络，卷积](https://www.ixigua.com/6937948172207522307?logTag=QofuTPgtxxMyZD9-c67Nn)    
+[微软 洪小文 沈向洋 AI综述](https://ke.pbcsf.net/live_pc/l_60320a39e4b0f176aed314d6)
 
 # AI 理论基础
 ## 贝叶斯决策与估计
