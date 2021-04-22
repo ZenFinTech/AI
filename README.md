@@ -8,8 +8,8 @@
 
 # AI 理论基础
 ## bayes 决策与估计
-统计决策的基础理论
-[THU 张颢 bayes formular 与 认知学习过程 ](https://www.bilibili.com/video/BV19V411o7Pu/?spm_id_from=333.788.recommend_more_video.-1)
+统计决策的基础理论     
+[THU 张颢 bayes formular 与 认知学习过程 ](https://www.bilibili.com/video/BV19V411o7Pu/?spm_id_from=333.788.recommend_more_video.-1)    
 ## 概率密度估计
 一类重要的无监督学习方法，统计模式识别的重要基础，模式分析的重要工具
 ## 分类器设计
