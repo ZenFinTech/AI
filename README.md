@@ -7,8 +7,9 @@
 [微软 洪小文 沈向洋 AI综述](https://ke.pbcsf.net/live_pc/l_60320a39e4b0f176aed314d6)
 
 # AI 理论基础
-## 贝叶斯决策与估计
+## bayes 决策与估计
 统计决策的基础理论
+[THU 张颢 bayes formular 与 认知学习过程 ](https://www.bilibili.com/video/BV19V411o7Pu/?spm_id_from=333.788.recommend_more_video.-1)
 ## 概率密度估计
 一类重要的无监督学习方法，统计模式识别的重要基础，模式分析的重要工具
 ## 分类器设计
