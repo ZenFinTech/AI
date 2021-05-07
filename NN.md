@@ -7,6 +7,7 @@
 ### perceptron
 http://neuralnetworksanddeeplearning.com/chap1.html 
 
-
+### Activation Function
+[Activation Function](https://www.bilibili.com/video/BV1Jy4y187Ez)    
 #### sigmoid
 
